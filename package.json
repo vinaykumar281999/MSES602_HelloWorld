@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Minimal project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegisUniversity/MSES602_helloWorld.git"
+  },
+  "author": "Bill Masters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RegisUniversity/MSES602_helloWorld/issues"
+  },
+  "homepage": "https://github.com/RegisUniversity/MSES602_helloWorld#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
