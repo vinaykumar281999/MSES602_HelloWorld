@@ -1,7 +1,7 @@
-Jenkinsfile (Declarative Pipeline)
+// Jenkinsfile (Declarative Pipeline)
 
 pipeline {
-    agent { docker { image 'node:8.10' } }
+    agent  any
     stages {
         stage('build') {
             steps {
